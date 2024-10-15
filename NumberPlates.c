@@ -1,5 +1,4 @@
 #include<stdio.h>
-
 int main() {
     int cars = 0;
     for (char i = 'A'; i <= 'Z'; i++) {
